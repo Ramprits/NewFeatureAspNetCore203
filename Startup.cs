@@ -59,7 +59,11 @@ namespace NewFeatureApplication {
                     });
                 });
             }
-
+            app.UseCors ((corsPolicyBuilder) => {
+                corsPolicyBuilder.AllowAnyOrigin ();
+                corsPolicyBuilder.AllowAnyMethod ();
+                corsPolicyBuilder.AllowAnyHeader ();
+            });
             app.UseMvc ();
         }
     }
