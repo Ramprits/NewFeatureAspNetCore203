@@ -1,0 +1,10 @@
+C:\AdventureWorkApplication\New Application\NewFeatureApplication\bin\Debug\netcoreapp2.0\NewFeatureApplication.deps.json
+C:\AdventureWorkApplication\New Application\NewFeatureApplication\bin\Debug\netcoreapp2.0\NewFeatureApplication.runtimeconfig.json
+C:\AdventureWorkApplication\New Application\NewFeatureApplication\bin\Debug\netcoreapp2.0\NewFeatureApplication.runtimeconfig.dev.json
+C:\AdventureWorkApplication\New Application\NewFeatureApplication\bin\Debug\netcoreapp2.0\NewFeatureApplication.dll
+C:\AdventureWorkApplication\New Application\NewFeatureApplication\bin\Debug\netcoreapp2.0\NewFeatureApplication.pdb
+C:\AdventureWorkApplication\New Application\NewFeatureApplication\obj\Debug\netcoreapp2.0\NewFeatureApplication.csproj.CoreCompileInputs.cache
+C:\AdventureWorkApplication\New Application\NewFeatureApplication\obj\Debug\netcoreapp2.0\NewFeatureApplication.AssemblyInfoInputs.cache
+C:\AdventureWorkApplication\New Application\NewFeatureApplication\obj\Debug\netcoreapp2.0\NewFeatureApplication.AssemblyInfo.cs
+C:\AdventureWorkApplication\New Application\NewFeatureApplication\obj\Debug\netcoreapp2.0\NewFeatureApplication.dll
+C:\AdventureWorkApplication\New Application\NewFeatureApplication\obj\Debug\netcoreapp2.0\NewFeatureApplication.pdb
